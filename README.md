@@ -53,7 +53,7 @@ CourseGrab 是一个专为北京理工大学学生设计的辅助选课系统。
 
 ```bash
 # 克隆项目
-git clone https://github.com/LingRuo-BIT/LingRuo-BIT-CourseGrab.git
+git clone https://github.com/LingRuo-BIT/CourseGrab.git
 cd CourseGrab
 
 # 安装依赖
